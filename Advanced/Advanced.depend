@@ -1,0 +1,68 @@
+# depslib dependency file v1.0
+1534513114 source:e:\c_pulas\c_work\左神\题库\advanced\class2.cpp
+	"Class2.h"
+
+1534908832 source:e:\c_pulas\c_work\左神\题库\advanced\class1.cpp
+	"Class1.h"
+
+1534507240 e:\c_pulas\c_work\左神\题库\advanced\class1.h
+	<vector>
+	<string>
+	<stdio.h>
+	<iostream>
+
+1535542795 source:e:\c_pulas\c_work\左神\题库\advanced\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	"Class1.h"
+	"Class2.h"
+	"For_test.h"
+	"Class3.h"
+	<map>
+	"Class4.h"
+	<cstdio>
+
+1534511678 e:\c_pulas\c_work\左神\题库\advanced\class2.h
+	<vector>
+	<string>
+	<stdio.h>
+	<iostream>
+	<deque>
+	<stack>
+
+1534512925 source:e:\c_pulas\c_work\左神\题库\advanced\for_test.cpp
+	"For_test.h"
+
+1534512920 e:\c_pulas\c_work\左神\题库\advanced\for_test.h
+	<vector>
+	<string>
+	<stdio.h>
+	<iostream>
+	<deque>
+	<cmath>
+	<stdlib.h>
+
+1534515343 source:e:\c_pulas\c_work\左神\题库\advanced\class3.cpp
+	"Class3.h"
+
+1534515294 e:\c_pulas\c_work\左神\题库\advanced\class3.h
+	<vector>
+	<string>
+	<stdio.h>
+	<iostream>
+	<deque>
+	<stack>
+
+1535465232 source:e:\c_pulas\c_work\左神\题库\advanced\class4.cpp
+	"Class4.h"
+
+1535465241 e:\c_pulas\c_work\左神\题库\advanced\class4.h
+	<vector>
+	<string>
+	<stdio.h>
+	<iostream>
+	<deque>
+	<stack>
+	<cmath>
+
