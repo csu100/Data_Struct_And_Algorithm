@@ -1,0 +1,203 @@
+# depslib dependency file v1.0
+1534322760 source:e:\c_pulas\c_work\左神\基础\f1\f1\main.cpp
+	<iostream>
+	<vector>
+	<cmath>
+	"My_Sort.h"
+	"My_Solution_Qustion.h"
+	"Class3.h"
+	"Class4.h"
+	"Class5.h"
+	"Class7.h"
+	"Class8.h"
+	<stdexcept>
+	"For_Test.h"
+	<algorithm>
+
+1533859671 e:\c_pulas\c_work\左神\基础\f1\f1\maopao.h
+	<vector>
+
+1533860905 source:e:\c_pulas\c_work\左神\基础\f1\f1\maopao.cpp
+	<iostream>
+	<vector>
+	<cmath>
+	"My_Sort.h"
+
+1533863325 e:\c_pulas\c_work\左神\基础\f1\f1\my_sort.h
+	<vector>
+
+1533863853 source:e:\c_pulas\c_work\左神\基础\f1\f1\my_sort.cpp
+	<iostream>
+	<vector>
+	<cmath>
+	"My_Sort.h"
+
+1533887013 source:e:\c_pulas\c_work\左神\基础\f1\f1\my_solution_qustion.cpp
+	"My_Solution_Qustion.h"
+	<iostream>
+
+1533869377 e:\c_pulas\c_work\左神\基础\f1\f1\my_solution_qustion.h
+	<vector>
+
+1534062854 e:\c_pulas\c_work\左神\基础\f1\f1\class3.h
+	<vector>
+	<stack>
+	<queue>
+	<iostream>
+	<map>
+	<cmath>
+
+1534064168 source:e:\c_pulas\c_work\左神\基础\f1\f1\class3.cpp
+	"Class3.h"
+
+1534081098 source:e:\c_pulas\c_work\左神\基础\f1\f1\class4.cpp
+	"Class4.h"
+
+1534080562 e:\c_pulas\c_work\左神\基础\f1\f1\class4.h
+	<vector>
+	<stack>
+	<queue>
+	<iostream>
+	<map>
+	<cmath>
+	<string>
+
+1534208460 source:e:\c_pulas\c_work\左神\基础\f1\f1\class5.cpp
+	"Class5.h"
+
+1534212315 e:\c_pulas\c_work\左神\基础\f1\f1\class5.h
+	<iostream>
+	<map>
+	<string>
+	<vector>
+
+1534208951 source:e:\c_pulas\c_work\左神\基础\f1\f1\class6.cpp
+
+1534238734 source:e:\c_pulas\c_work\左神\基础\f1\f1\class7.cpp
+	"Class7.h"
+
+1534239229 e:\c_pulas\c_work\左神\基础\f1\f1\class7.h
+	<iostream>
+	<map>
+	<string>
+	<vector>
+	<queue>
+	<algorithm>
+
+1534322727 source:e:\c_pulas\c_work\左神\基础\f1\f1\class8.cpp
+	"Class8.h"
+
+1534322673 e:\c_pulas\c_work\左神\基础\f1\f1\class8.h
+	<string>
+	<vector>
+	<iostream>
+	<set>
+	<stack>
+
+1534299353 source:e:\c_pulas\c_work\左神\基础\f1\f1\for_test.cpp
+	"For_Test.h"
+
+1534299326 e:\c_pulas\c_work\左神\基础\f1\f1\for_test.h
+	<vector>
+	<cmath>
+	<stdlib.h>
+	<iostream>
+	<stdio.h>
+
+1534064170 source:f:\课程\study_c\模板\jc\class3.cpp
+	"Class3.h"
+
+1534062856 f:\课程\study_c\模板\jc\class3.h
+	<vector>
+	<stack>
+	<queue>
+	<iostream>
+	<map>
+	<cmath>
+
+1534081100 source:f:\课程\study_c\模板\jc\class4.cpp
+	"Class4.h"
+
+1534080564 f:\课程\study_c\模板\jc\class4.h
+	<vector>
+	<stack>
+	<queue>
+	<iostream>
+	<map>
+	<cmath>
+	<string>
+
+1537366732 source:f:\课程\study_c\模板\jc\class5.cpp
+	"Class5.h"
+
+1537366434 f:\课程\study_c\模板\jc\class5.h
+	<iostream>
+	<map>
+	<string>
+	<vector>
+	<stdio.h>
+
+1534208952 source:f:\课程\study_c\模板\jc\class6.cpp
+
+1534238736 source:f:\课程\study_c\模板\jc\class7.cpp
+	"Class7.h"
+
+1536719527 f:\课程\study_c\模板\jc\class7.h
+	<iostream>
+	<map>
+	<string>
+	<vector>
+	<queue>
+	<algorithm>
+
+1534322788 source:f:\课程\study_c\模板\jc\class8.cpp
+	"Class8.h"
+
+1534322674 f:\课程\study_c\模板\jc\class8.h
+	<string>
+	<vector>
+	<iostream>
+	<set>
+	<stack>
+
+1534299354 source:f:\课程\study_c\模板\jc\for_test.cpp
+	"For_Test.h"
+
+1534299328 f:\课程\study_c\模板\jc\for_test.h
+	<vector>
+	<cmath>
+	<stdlib.h>
+	<iostream>
+	<stdio.h>
+
+1537366540 source:f:\课程\study_c\模板\jc\main.cpp
+	<iostream>
+	<vector>
+	<cmath>
+	"My_Sort.h"
+	"My_Solution_Qustion.h"
+	"Class3.h"
+	"Class4.h"
+	"Class5.h"
+	"Class7.h"
+	"Class8.h"
+	<stdexcept>
+	"For_Test.h"
+	<algorithm>
+
+1533863326 f:\课程\study_c\模板\jc\my_sort.h
+	<vector>
+
+1533869378 f:\课程\study_c\模板\jc\my_solution_qustion.h
+	<vector>
+
+1533887014 source:f:\课程\study_c\模板\jc\my_solution_qustion.cpp
+	"My_Solution_Qustion.h"
+	<iostream>
+
+1533863854 source:f:\课程\study_c\模板\jc\my_sort.cpp
+	<iostream>
+	<vector>
+	<cmath>
+	"My_Sort.h"
+
